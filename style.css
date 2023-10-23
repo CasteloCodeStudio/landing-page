@@ -3,7 +3,7 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 body{
-    background-image: url("./image/retrato-de-uma-mulher-aplicando-maquiagem-com-um-pincel-de-maquiagem.jpg");
+    background-image: url("./retrato-de-uma-mulher-aplicando-maquiagem-com-um-pincel-de-maquiagem.jpg");
     background-size: cover;
     background-repeat: repeat-x;
     background-color: #eceee7;
@@ -113,8 +113,8 @@ footer{
         height: 100%;
     }
     body{
-        background-image: url('./image/retrato-de-uma-mulher-aplicando-maquiagem-com-um-pincel-de-maquiagem.jpg'), url('./image/mulher2.jpg'),url('./image/mulher3.jpg');
-        background-size:contain;
+        background-image: url('./retrato-de-uma-mulher-aplicando-maquiagem-com-um-pincel-de-maquiagem.jpg'), url('./mulher2.jpg'),url('./mulher3.jpg');
+        background-size:800px;
         background-position: top, bottom, center;
         background-repeat:no-repeat,no-repeat;
         background-color: white;
@@ -166,7 +166,7 @@ footer{
 
 
     body{
-        background-image: url('./image/retrato-de-uma-mulher-aplicando-maquiagem-com-um-pincel-de-maquiagem.jpg'), url('./image/mulher2.jpg'),url('./image/mulher3.jpg');
+        background-image: url('./retrato-de-uma-mulher-aplicando-maquiagem-com-um-pincel-de-maquiagem.jpg'), url('./mulher2.jpg'),url('./mulher3.jpg');
         background-size:1000px;
 }
 
